@@ -1,6 +1,6 @@
-# CurrencyXchange 💱
+# Currency Xchange 💱
 
-CurrencyXchange is a user-friendly web application for converting currencies effortlessly. With a sleek design and intuitive interface, it allows users to quickly convert between different currencies.
+Currency Xchange is a user-friendly web application for converting currencies effortlessly. With a sleek design and intuitive interface, it allows users to quickly convert between different currencies.
 
 ## Features
 
