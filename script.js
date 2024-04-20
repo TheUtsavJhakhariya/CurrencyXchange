@@ -4,7 +4,7 @@
     getButton = document.querySelector("form button");
   
     for (let i = 0; i < dropList.length; i++) {
-      for (const currency_code in country_code) {
+      for (const currency_code in country_code) { 
         
         let selected;
         if(i==0){
