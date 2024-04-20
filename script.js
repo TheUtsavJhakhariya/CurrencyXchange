@@ -7,7 +7,7 @@
       for (const currency_code in country_code) { 
         
         let selected;
-        if(i==0){
+        if(i==0){ 
           selected = currency_code == "USD" ? "selected" : "";
         } else if(i==1){
           selected = currency_code == "USD" ? "selected" : "";
