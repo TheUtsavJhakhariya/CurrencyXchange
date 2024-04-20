@@ -12,7 +12,7 @@
         } else if(i==1){
           selected = currency_code == "USD" ? "selected" : "";
         }
-        
+         
         const optionTag = `<option value="${currency_code}">${currency_code}</option>`;
         dropList[i].insertAdjacentHTML("beforeend", optionTag);
       }
