@@ -1,7 +1,7 @@
     const dropList = document.querySelectorAll(".drop-list select"),
      fromCurrency = document.querySelector(".from select"),
      toCurrency = document.querySelector(".to select"),
-    getButton = document.querySelector("form button");
+    getButton = document.querySelector("form button"); 
   
     for (let i = 0; i < dropList.length; i++) {
       for (const currency_code in country_code) { 
