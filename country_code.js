@@ -9,7 +9,7 @@ let country_code = {
     "AUD": "AU",
     "AWG": "AW",
     "AZN": "AZ",
-    "BAM": "BA",
+    "BAM": "BA", 
     "BBD": "BB",
     "BDT": "BD",
     "BGN": "BG",
