@@ -4,7 +4,7 @@ let country_code = {
     "ALL": "AL",
     "AMD": "AM",
     "ANG": "AN",
-    "AOA": "AO",
+    "AOA": "AO", 
     "ARS": "AR",
     "AUD": "AU",
     "AWG": "AW",
