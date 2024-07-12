@@ -59,7 +59,7 @@
   if (amountVal === "" || amountVal === "0") {
     amount.value = "1";
     amountVal = 1;
-  }
+  } 
 
   let url = `https://v6.exchangerate-api.com/v6/1080c30696049395788cf04c/latest/USD`;
   fetch(url)
